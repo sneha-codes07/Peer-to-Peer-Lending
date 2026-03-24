@@ -123,11 +123,8 @@ All loan data is securely stored on the Stellar blockchain using Soroban smart c
 ---
 
 ## 🔗 Deployed Smart Contract Link
-
-> ⚠️ Replace this with your actual deployed contract link
-
 ```
-[https://stellar.expert/explorer/testnet/contract/CB6UYO3C3HO255XTPIWI6BC3JZSBYCH62QN43RAL42MBCR4TRZG6J4R6]
+https://stellar.expert/explorer/testnet/contract/CB6UYO3C3HO255XTPIWI6BC3JZSBYCH62QN43RAL42MBCR4TRZG6J4R6
 ```
 
 ---
