@@ -90,6 +90,9 @@ impl LendingContract {
 
 This project is a **Peer-to-Peer Lending Smart Contract** built using **Soroban SDK on the Stellar blockchain**. It enables users to lend and borrow funds directly without intermediaries, ensuring transparency, security, and decentralization.
 
+<img width="950" height="446" alt="image" src="https://github.com/user-attachments/assets/14f21cf8-60a0-40a1-9894-b431a07ac258" />
+
+
 ---
 
 ## ⚙️ What It Does
