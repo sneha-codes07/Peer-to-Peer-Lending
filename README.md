@@ -92,6 +92,7 @@ This project is a **Peer-to-Peer Lending Smart Contract** built using **Soroban 
 
 <img width="950" height="446" alt="image" src="https://github.com/user-attachments/assets/14f21cf8-60a0-40a1-9894-b431a07ac258" />
 
+<img width="953" height="449" alt="image" src="https://github.com/user-attachments/assets/550d7fc8-b167-462a-9ba2-a3f4b007778a" />
 
 ---
 
